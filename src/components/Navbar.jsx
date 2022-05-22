@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 export default function Navbar() {
   return (
-    <div className="fixed z-50 flex w-full pt-40 text-xl font-bold text-primary-light">
+    <div className="fixed z-50 flex w-full pt-28 text-xl font-bold text-primary-light">
       <div className="flex w-1/2 items-baseline">
         <div className="w-1/3">
           <div className="mb-1 h-1 w-1/4 bg-primary-light" />
