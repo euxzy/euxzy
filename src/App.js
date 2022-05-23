@@ -29,7 +29,7 @@ function App() {
   const cursorOut = () => setCustomCursor('default');
 
   return (
-    <div onMouseEnter={cursorIn} onMouseLeave={cursorOut}>
+    <div className="font-lexend" onMouseEnter={cursorIn} onMouseLeave={cursorOut}>
       <Router>
         <Navbar />
 

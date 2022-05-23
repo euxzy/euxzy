@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Home() {
   return (
-    <div className="relative flex h-screen w-full items-center justify-evenly overflow-hidden bg-secondary-dark font-lexend text-primary-light">
+    <div className="relative flex h-screen w-full items-center justify-evenly overflow-hidden bg-secondary-dark text-primary-light">
       <div className="absolute left-0 bottom-0 text-9xl font-bold text-primary-dark">EUXZY</div>
       <div className="relative flex w-1/3 justify-end">
         <div className="absolute mt-20 h-96 w-3/5 -rotate-12 rounded-xl bg-[#464646]" />
