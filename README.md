@@ -1,1 +1,1 @@
-# Hi! My name is Euxzy
+# Hi! My name is euxzy
