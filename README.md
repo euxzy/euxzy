@@ -7,7 +7,7 @@ class SoftwareEngineer {
     public techStack = ["Typescript", "Svelte", "Vue", "React", "Bun"]
 
     sayHello() {
-        console.log("Hello 👋! My name is euxzy—hope you find something that sparks your interest.")
+        console.log("Hello 👋! My name is euxzy, hope you find something that sparks your interest.")
     }
 
     learnTechStack(tech: string) {
